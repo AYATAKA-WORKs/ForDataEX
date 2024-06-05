@@ -1,0 +1,8 @@
+https://www.jstage.jst.go.jp/article/jime/44/3/44_405/_pdf/-char/ja
+https://www.jstage.jst.go.jp/article/jsaeronbun/53/5/53_20224509/_pdf
+https://it.mathworks.com/content/dam/mathworks/mathworks-dot-com/solutions/aerospace-defense/files/2010/Airbus_MBDC_2010.pdf
+https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/uk/2017/model-based-design-for-fuel-system-development.pdf
+https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/online/2022/fuel-cell-systems-The-challenge-of-multiphysics-simulation.pdf
+
+https://journals.sagepub.com/doi/10.1177/09544100231154441
+https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/15126/Simulation_of_an_aircraft_environmental_control_system-2020.pdf;jsessionid=619FD198FA81485436202774EE18C800?sequence=4
